@@ -12,20 +12,11 @@ $ go get github.com/zhucebuliaolongchuan/LotR-SDK-go
 ### Usage
 #### Build
 ```
-$ go build
-```
-
-#### Run
-```
-$ ./liblab-lotR-sdk-go --help
-```
-
-Example output:
-```
+$ ./LotR-SDK-go --help
 Do you love The Lord of the Rings? Great, this is a helpful CLI for you to consume information about the trilogy
 
 Usage:
-  liblab-lotR-sdk-go [command]
+  LotR-SDK-go [command]
 
 Available Commands:
   book        List books
@@ -37,10 +28,10 @@ Available Commands:
   quote       List movie quotes or one specific movie quote
 
 Flags:
-  -h, --help   help for liblab-go-sdk
+  -h, --help   help for LotR-SDK-go
 
-Use "liblab-lotR-sdk-go [command] --help" for more information about a command.
+Use "LotR-SDK-go [command] --help" for more information about a command.
 ```
 
 #### TODO
-* Provide feature flags for using pagination, sorting and filtering of the API requests
+* Provide feature flags for pagination, sorting and filtering
