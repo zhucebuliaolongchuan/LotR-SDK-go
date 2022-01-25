@@ -4,6 +4,11 @@ Do you love The Lord of the Rings? Great, this is a powerful go sdk to interact 
 ### Dependencies
 * install [Golang](https://go.dev/doc/install) (>=1.15)
 
+### How to get
+```
+$ go get github.com/zhucebuliaolongchuan/LotR-SDK-go
+```
+
 ### Usage
 #### Build
 ```
